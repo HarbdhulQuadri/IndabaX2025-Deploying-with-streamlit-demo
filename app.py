@@ -11,7 +11,7 @@ model = load_model()
 
 # App layout
 st.set_page_config(page_title="🇳🇬 Nigerian SME Sales Predictor", layout="centered")
-st.title("🧾 Predict Daily Sales for Nigerian SMEs")
+st.title(" Predict Daily Sales for Nigerian SMEs")
 st.markdown("""
 This tool helps Nigerian small businesses forecast daily sales using a machine learning model trained on real e-commerce data.
 """)
