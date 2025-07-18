@@ -71,8 +71,8 @@ streamlit run app.py
 
 ---
 
-## 📸 App Demo Screenshot
-
+## 📸 App Demo link
+Go to [indabax2025-deploying-with-app-demo-57zoxmuothphwxq4jyy49h.streamlit.app/](https://indabax2025-deploying-with-app-demo-57zoxmuothphwxq4jyy49h.streamlit.app/)
 
 ---
 
